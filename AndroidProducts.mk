@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_axolotlaxie.mk
+    $(LOCAL_DIR)/twrp_axolotlaxie.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_axolotlaxie-user \
-    omni_axolotlaxie-userdebug \
-    omni_axolotlaxie-eng
+    twrp_axolotlaxie-user \
+    twrp_axolotlaxie-userdebug \
+    twrp_axolotlaxie-eng
