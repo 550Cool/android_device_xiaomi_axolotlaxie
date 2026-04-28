@@ -15,7 +15,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/xiaomi/axolotlaxie/device.mk)
 
 PRODUCT_DEVICE := axolotlaxie
-PRODUCT_NAME := omni_axolotlaxie
+PRODUCT_NAME := twrp_axolotlaxie
 PRODUCT_BRAND := xiaomi
 PRODUCT_MODEL := xiaomi
 PRODUCT_MANUFACTURER := xiaomi
